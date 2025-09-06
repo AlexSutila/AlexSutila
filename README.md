@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 June 2025 - To: 03 September 2025
+From: 04 June 2025 - To: 04 September 2025
 
-Total Time: 365 hrs
+Total Time: 365 hrs 29 mins
 
-C++                177 hrs 4 mins  >>>>>>>>>>>>-------------   47.95 %
-Markdown           88 hrs 42 mins  >>>>>>-------------------   24.02 %
-Python             28 hrs 11 mins  >>-----------------------   07.63 %
-Bash               21 hrs 6 mins   >------------------------   05.72 %
+C++                177 hrs 4 mins  >>>>>>>>>>>>-------------   47.88 %
+Markdown           89 hrs 11 mins  >>>>>>-------------------   24.12 %
+Python             28 hrs 11 mins  >>-----------------------   07.62 %
+Bash               21 hrs 6 mins   >------------------------   05.71 %
 C                  15 hrs 7 mins   >------------------------   04.09 %
 Text               5 hrs 52 mins   -------------------------   01.59 %
 Nix                5 hrs 17 mins   -------------------------   01.43 %
