@@ -3,7 +3,7 @@
 ****
 
 I write emulators and stuff, try one out:
-- **GameBoy Color:** Here are links to [wasm frontend](https://alexsutila.github.io/GBCEmulator/gbc_wasm.html) and [the source code](https://github.com/AlexSutila/GBCEmulator)
+- **GameBoy Color:** Here are links to [wasm frontend](https://alexsutila.github.io/GBCEmulator/index.html) and [the source code](https://github.com/AlexSutila/GBCEmulator)
 
 ****
 
