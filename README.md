@@ -10,19 +10,19 @@ I write emulators and stuff, try one out:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 June 2025 - To: 15 February 2026
+From: 04 June 2025 - To: 16 February 2026
 
-Total Time: 635 hrs 31 mins
+Total Time: 638 hrs 29 mins
 
-C++                343 hrs 13 mins >>>>>>>>>>>>>------------   53.16 %
-Markdown           104 hrs 2 mins  >>>>---------------------   16.11 %
-Python             70 hrs 33 mins  >>>----------------------   10.93 %
-Bash               26 hrs 55 mins  >------------------------   04.17 %
-C                  18 hrs 48 mins  >------------------------   02.91 %
-TeX                11 hrs 45 mins  -------------------------   01.82 %
-Other              10 hrs 8 mins   -------------------------   01.57 %
+C++                345 hrs 48 mins >>>>>>>>>>>>>------------   53.31 %
+Markdown           104 hrs 9 mins  >>>>---------------------   16.06 %
+Python             70 hrs 36 mins  >>>----------------------   10.89 %
+Bash               26 hrs 55 mins  >------------------------   04.15 %
+C                  18 hrs 48 mins  >------------------------   02.90 %
+TeX                11 hrs 45 mins  -------------------------   01.81 %
+Other              10 hrs 8 mins   -------------------------   01.56 %
 CMake              10 hrs 1 min    -------------------------   01.55 %
-Text               8 hrs 14 mins   -------------------------   01.28 %
+Text               8 hrs 14 mins   -------------------------   01.27 %
 Lua                5 hrs 22 mins   -------------------------   00.83 %
 ```
 
