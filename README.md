@@ -3,7 +3,7 @@
 ****
 
 I write emulators and stuff, try one out:
-- **GameBoy Color:** Here are links to [wasm frontend](https://alexsutila.github.io/IroGB/) and [the source code](https://kaze.moe/TismForge/IroGB)
+- **GameBoy Color:** Here are links to [wasm frontend](https://irogb.dev/) and [the source code](https://kaze.moe/TismForge/IroGB)
 
 ****
 
