@@ -10,7 +10,7 @@ I write emulators and stuff, try one out:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 June 2025 - To: 27 April 2026
+From: 04 June 2025 - To: 28 April 2026
 
 Total Time: 920 hrs 51 mins
 
