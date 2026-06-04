@@ -5,6 +5,9 @@
 I write emulators and stuff, try one out:
 - **GameBoy Color:** Here are links to [wasm frontend](https://irogb.dev/) and [the source code](https://kaze.moe/TismForge/IroGB)
 
+Heres a link to my AUR profile as well:
+- https://aur.archlinux.org/account/dorcelessness
+
 ****
 
 <!--START_SECTION:waka-->
