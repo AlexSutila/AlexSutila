@@ -13,7 +13,7 @@ Heres a link to my AUR profile as well:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 June 2025 - To: 13 July 2026
+From: 04 June 2025 - To: 14 July 2026
 
 Total Time: 921 hrs 56 mins
 
