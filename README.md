@@ -13,20 +13,20 @@ Heres a link to my AUR profile as well:
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 June 2025 - To: 12 October 2026
+From: 04 June 2025 - To: 13 October 2026
 
-Total Time: 979 hrs 42 mins
+Total Time: 983 hrs 29 mins
 
-C++                497 hrs 10 mins       >>>>>>>>>>>>>------------   50.09 %
-Rust               112 hrs 51 mins       >>>----------------------   11.37 %
-Markdown           107 hrs 35 mins       >>>----------------------   10.84 %
-Python             81 hrs 3 mins         >>-----------------------   08.17 %
-Bash               30 hrs 48 mins        >------------------------   03.10 %
-Nix                27 hrs 32 mins        >------------------------   02.77 %
-CMake              24 hrs 36 mins        >------------------------   02.48 %
-C                  23 hrs 10 mins        >------------------------   02.33 %
-Other              12 hrs 56 mins        -------------------------   01.30 %
-TeX                11 hrs 45 mins        -------------------------   01.19 %
+C++                499 hrs 17 mins       >>>>>>>>>>>>>------------   50.10 %
+Rust               112 hrs 51 mins       >>>----------------------   11.32 %
+Markdown           107 hrs 35 mins       >>>----------------------   10.80 %
+Python             81 hrs 3 mins         >>-----------------------   08.13 %
+Bash               30 hrs 48 mins        >------------------------   03.09 %
+Nix                28 hrs 27 mins        >------------------------   02.86 %
+CMake              24 hrs 55 mins        >------------------------   02.50 %
+C                  23 hrs 12 mins        >------------------------   02.33 %
+Other              13 hrs 9 mins         -------------------------   01.32 %
+TeX                11 hrs 45 mins        -------------------------   01.18 %
 ```
 
 <!--END_SECTION:waka-->
